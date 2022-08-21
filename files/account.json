@@ -1,0 +1,38 @@
+[
+  {
+    "username": "a",
+    "password": "$2a$12$QzeKtlzZ3LBaCHuFAZsrDONPuZrLf35kPwmNWLbbQdFwpylVffssG"
+  },
+  {
+    "username": "b",
+    "password": "$2a$12$iH6R5anR1Sd73IreyN6m1egozqLQCskFr2mQB.OoHbzTRJdrsP3Ce"
+  },
+  {
+    "username": "t",
+    "password": "$2a$12$.R4wHuVjxtmsJqGdETAFv.V0xHE.u.QjCGtRwpPCzbYqcAw3dsLRG"
+  },
+  {
+    "username": "q",
+    "password": "$2a$12$0HXnQzkFiozj9D062S/3Oe6GnYvvDo5PH6fk2PmZfKQV01nPKQe5q"
+  },
+  {
+    "username": "trung",
+    "password": "$2a$12$5zZd7fp5D.psIR/DvGYMZ.Tuqr1ZsoQRt.3/UDseyTQzC9nTWCkAG"
+  },
+  {
+    "username": "trung",
+    "password": "$2a$12$8DTMPT6EQ/.yfNcd7mwMjOCIJkqplaqBmCUNwbwoz0V6vxXAU.2ZK"
+  },
+  {
+    "username": "trung",
+    "password": "$2a$12$J21Ipp8wSauorvG0on4xCe6F3IzimIqFkrhMG7pJ0DwgOFvM9Aucy"
+  },
+  {
+    "username": "abc",
+    "password": "$2a$12$sSi8ay6aFGk5k1QrZ0KuWeibTFA6zi01vFvUfWvXxkO41639AfSXe"
+  },
+  {
+    "username": "i",
+    "password": "$2a$12$Jx4Ua6DCeLqob7gtD7N97OJQvOMwpmp/SHJzvy0UyJzXea/GoJbrS"
+  }
+]
